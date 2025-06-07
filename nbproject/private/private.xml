@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/Alert/CreateAlertController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/DAO/AlertDAO.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/stock/StockController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/LoginController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/web/WEB-INF/web.xml</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/Alert/SearchAlertController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/model/Alert.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/web/stockList.jsp</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/Alert/DeleteAlertController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/web/createAlert.jsp</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/stock/SearchStockController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/DAO/StockDAO.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/web/error.jsp</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/web/alertList.jsp</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/Alert/AlertController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/stock/CreateStockController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/DAO/UserDAO.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/web/updateAlert.jsp</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/User/UserController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/src/java/controller/Alert/UpdateAlertController.java</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/web/checkAuthorized.jsp</file>
+            <file>file:/D:/BuiGiaHuy/CN4/PRJ301/code/PRJ302_SE1826_Group11_StockManagement/web/userPage.jsp</file>
+        </group>
+    </open-files>
+</project-private>
